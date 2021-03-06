@@ -1,0 +1,57 @@
+body {
+    font-family: 'Verdana', sans-serif;
+    margin: 50px 25px;
+    background-color: #181a1b;
+    display: block;
+    min-height:80%;
+}
+
+a {
+    color: #850c71;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #4617c7;
+}
+
+footer, div.page {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px 30px;
+}
+
+header{
+    background-image:url('../img/header.jpg');
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px 30px;
+}
+
+/* .logo{
+    width:20%;
+    height:20%;
+} */
+
+header h1 {
+    color: #7c0863;
+    margin: 0;
+    font-weight: normal;
+    font-size: 42px;
+}
+
+header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 8px 0 0;
+    padding: 0;
+}
+
+p, h1, h2, h3, span{
+    color:white;
+}
