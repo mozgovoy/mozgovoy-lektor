@@ -19,7 +19,7 @@ footer, div.page {
 }
 
 header{
-    background-image:url('/static/img/header.jpg');
+    background-image:url('header.jpg');
     width: 100%;
     margin: 0 auto;
     padding: 20px 30px;
